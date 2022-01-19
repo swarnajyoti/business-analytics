@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/bitbucket/issues/swarnajyoti/business-analytics)](https://github.com/swarnajyoti/business-analytics/Investment-Strategies/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/swarnajyoti/business-analytics)](https://github.com/swarnajyoti/business-analytics/Investment-Strategies/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/swarnajyoti/business-analytics)](https://github.com/swarnajyoti/business-analytics/Investment-Strategies/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/swarnajyoti/business-analytics)](https://github.com/swarnajyoti/business-analytics/Investment-Strategies/pulls)
 [![License](https://img.shields.io/github/license/swarnajyoti/business-analytics)](/LICENSEMIT)
 
 </div>
