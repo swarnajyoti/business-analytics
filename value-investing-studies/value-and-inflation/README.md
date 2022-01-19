@@ -1,6 +1,6 @@
 # The Relationship Between Value Investing and Inflation
 
-![alt text](/value-and-inflation/value-cpi-decade-chart.png)
+![alt text](https://github.com/swarnajyoti/business-analytics/blob/main/value-investing-studies/value-and-inflation/value-cpi-decade-chart.png)
 
 For details on this chart and the data used to generate it, please [visit this post](https://www.euclidean.com/value-investing-as-a-hedge-against-inflation).
 
