@@ -11,7 +11,15 @@
 
 # Analysis of Asset Allocation Strategies for Investing
 
-This repository contains a data driven approach for analyzing asset allocation strategies for investing using python and its core libraries, particularly, NumPy, Pandas, Matplotlib, Plotly, IPython, scipy.stats, and related packages.
+## ⛏️ Built Using <a name = "built_using"></a>
+
+This repository contains a data driven approach for analyzing asset allocation strategies for investing using python and its core libraries, particularly,
+- [NumPy](https://pypi.org/project/numpy/)
+- [Pandas](https://pypi.org/project/pandas/)
+- [Matplotlib](https://pypi.org/project/matplotlib/)
+- [Plotly](https://pypi.org/project/plotly/)
+- [IPython](https://pypi.org/project/ipython/)
+- [Scipy](https://pypi.org/project/scipy/)
 
 I have explored what I would call continuous asset allocation (allocating regular contributions among your investments) and seasonal asset allocation (allocating entire contributions to specific investments based on seasonal trends). The goal would be to determine which approach, if either, produces better long-term returns. For example, for a given year, if I want to contribute 50% of my $100 monthly investments to stocks (e.g., S&P 500) and 50% to fixed income (e.g., Treasury bills), should I contribute $50 and $50, respectively, each month, or choose 6 months for each investment to contribute the full $100?
 
